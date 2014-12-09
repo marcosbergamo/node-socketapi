@@ -1,0 +1,23 @@
+{
+  "name": "socketapi",
+  "version": "0.0.1",
+  "description": "Helper to enable your api receive socket connections",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcosbergamo/node-socketapi.git"
+  },
+  "keywords": [
+    "socket",
+    "api"
+  ],
+  "author": "Marcos Bérgamo <markusdarkness@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcosbergamo/node-socketapi/issues"
+  },
+  "homepage": "https://github.com/marcosbergamo/node-socketapi"
+}
